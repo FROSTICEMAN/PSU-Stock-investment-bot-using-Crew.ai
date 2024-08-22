@@ -1,0 +1,31 @@
+Stock 1: State Bank of India (SBI)
+Current Price: ₹820
+P/E Ratio: 10.7
+EPS: ₹76.93
+Background Information: This PSU has shown consistent performance in the sector with recent improvements in operational efficiency.
+
+Stock 2: Oil and Natural Gas Corporation (ONGC)
+Current Price: ₹324
+P/E Ratio: 9.37
+EPS: ₹35.39
+Background Information: ONGC is a leading PSU in the oil and gas sector, with a strong track record of exploration and production.
+
+Stock 3: NTPC Limited (NTPC)
+Current Price: ₹404
+P/E Ratio: 20.33
+EPS: ₹19.83
+Background Information: NTPC is a leading PSU in the power generation sector, with a strong track record of operational efficiency and profitability.
+
+Stock 4: Coal India Limited (COAL INDIA)
+Current Price: ₹529
+P/E Ratio: 9.38
+EPS: ₹61.38
+Background Information: Coal India is a leading PSU in the coal mining sector, with a strong track record of production and profitability.
+
+Stock 5: Power Grid Corporation of India Limited (POWERGRID)
+Current Price: ₹224
+P/E Ratio: 11.15
+EPS: ₹20.03
+Background Information: Power Grid is a leading PSU in the power transmission sector, with a strong track record of operational efficiency and profitability.
+
+Note: The prices and ratios are based on the available data and may not reflect the current market situation.
